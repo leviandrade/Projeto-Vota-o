@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleicao.API", "Eleicao.API\Eleicao.API.csproj", "{A0BFB022-83C4-4E96-AF51-FE6759BE7F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BFB022-83C4-4E96-AF51-FE6759BE7F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BFB022-83C4-4E96-AF51-FE6759BE7F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BFB022-83C4-4E96-AF51-FE6759BE7F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BFB022-83C4-4E96-AF51-FE6759BE7F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB600D85-FFA2-42BD-8CB8-26072E364450}
+	EndGlobalSection
+EndGlobal
