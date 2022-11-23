@@ -1,0 +1,15 @@
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.AssemblyInfo.cs
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\bin\Debug\net6.0\Eleicao.Data.deps.json
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\bin\Debug\net6.0\Eleicao.Data.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\bin\Debug\net6.0\Eleicao.Data.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\bin\Debug\net6.0\Eleicao.Dominio.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\bin\Debug\net6.0\Eleicao.Dominio.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.csproj.CopyComplete
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\refint\Eleicao.Data.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\Eleicao.Data.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Data\obj\Debug\net6.0\ref\Eleicao.Data.dll

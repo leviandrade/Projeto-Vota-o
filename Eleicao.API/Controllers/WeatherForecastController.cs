@@ -1,3 +1,5 @@
+using Eleicao.Dominio.Eleicao.Entidades;
+using Eleicao.Dominio.Eleicao.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eleicao.API.Controllers
@@ -6,28 +8,17 @@ namespace Eleicao.API.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+        private readonly IEleicaoRepository _eleicaoRepository;
 
-        private readonly ILogger<WeatherForecastController> _logger;
-
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(IEleicaoRepository eleicaoRepository)
         {
-            _logger = logger;
+            _eleicaoRepository = eleicaoRepository;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
+        [HttpGet(Name = "Listar")]
+        public async Task<IEnumerable<EleicaoEntity>> Get()
         {
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
+            return await _eleicaoRepository.Listar();
         }
     }
 }

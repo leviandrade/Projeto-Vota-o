@@ -1,0 +1,12 @@
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.AssemblyInfo.cs
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.deps.json
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\refint\Eleicao.Dominio.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\ref\Eleicao.Dominio.dll
