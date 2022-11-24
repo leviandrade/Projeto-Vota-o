@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.API\\Eleicao.API.csproj": {}
+    "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.API\\Eleicao.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.API\\Eleicao.API.csproj": {
+    "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.API\\Eleicao.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.API\\Eleicao.API.csproj",
+        "projectUniqueName": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.API\\Eleicao.API.csproj",
         "projectName": "Eleicao.API",
-        "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.API\\Eleicao.API.csproj",
-        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.API\\obj\\",
+        "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.API\\Eleicao.API.csproj",
+        "packagesPath": "C:\\Users\\015110011\\.nuget\\packages\\",
+        "outputPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\015110011\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj": {
-                "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj"
+              "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj": {
+                "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj"
               },
-              "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\Eleicao.IoC.csproj": {
-                "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\Eleicao.IoC.csproj"
+              "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\Eleicao.IoC.csproj": {
+                "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\Eleicao.IoC.csproj"
               }
             }
           }
@@ -76,25 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj": {
+    "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj",
+        "projectUniqueName": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj",
         "projectName": "Eleicao.Data",
-        "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj",
-        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\obj\\",
+        "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj",
+        "packagesPath": "C:\\Users\\015110011\\.nuget\\packages\\",
+        "outputPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\015110011\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
+              "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
+                "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
               }
             }
           }
@@ -146,25 +144,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
+    "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
+        "projectUniqueName": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
         "projectName": "Eleicao.Dominio",
-        "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\obj\\",
+        "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
+        "packagesPath": "C:\\Users\\015110011\\.nuget\\packages\\",
+        "outputPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\015110011\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -206,25 +203,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\Eleicao.IoC.csproj": {
+    "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\Eleicao.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\Eleicao.IoC.csproj",
+        "projectUniqueName": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\Eleicao.IoC.csproj",
         "projectName": "Eleicao.IoC",
-        "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\Eleicao.IoC.csproj",
-        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.IoC\\obj\\",
+        "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\Eleicao.IoC.csproj",
+        "packagesPath": "C:\\Users\\015110011\\.nuget\\packages\\",
+        "outputPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\015110011\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -240,11 +236,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj": {
-                "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Data\\Eleicao.Data.csproj"
+              "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj": {
+                "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Data\\Eleicao.Data.csproj"
               },
-              "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
+              "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
+                "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
               }
             }
           }
@@ -279,7 +275,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

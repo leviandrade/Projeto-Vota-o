@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Eleicao.Dominio.EntidadeBase;
 
 namespace Eleicao.Dominio.Eleicao.Entidades
 {
-    class VotoEntity
+    public class VotoEntity : Entidade
     {
+        public int IdEleicaoCandidato { get; set; }
+        public int IdUsuario { get; set; }
     }
 }
