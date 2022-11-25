@@ -1,11 +1,8 @@
-﻿using Eleicao.Data.Repositories.Eleicao;
+﻿using Eleicao.Data.Repositories.Acesso;
+using Eleicao.Data.Repositories.Eleicao;
+using Eleicao.Dominio.Acesso.Repositories;
 using Eleicao.Dominio.Eleicao.Repositories.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Eleicao.IoC.App_Start
 {
@@ -26,7 +23,10 @@ namespace Eleicao.IoC.App_Start
 
         private static void AddRepositories(IServiceCollection services)
         {
+            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
             services.AddScoped<IEleicaoRepository, EleicaoRepository>();
+            services.AddScoped<IVotoRepository, VotoRepository>();
         }
     }
 }

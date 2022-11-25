@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Eleicao.Dominio.Eleicao.Entidades;
+using Eleicao.Dominio.Interfaces;
 
 namespace Eleicao.Dominio.Eleicao.Repositories.Interfaces
 {
-    class IVotoRepository
+    public interface IVotoRepository : IRepository<VotoEntity>
     {
     }
 }
