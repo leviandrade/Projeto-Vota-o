@@ -1,0 +1,17 @@
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.csproj.AssemblyReference.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.AssemblyInfoInputs.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.AssemblyInfo.cs
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.Aplicacao.deps.json
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.Aplicacao.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.Aplicacao.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.Dominio.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.DTL.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.Dominio.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\bin\Debug\net6.0\Eleicao.DTL.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.csproj.CopyComplete
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\refint\Eleicao.Aplicacao.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\Eleicao.Aplicacao.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Aplicacao\obj\Debug\net6.0\ref\Eleicao.Aplicacao.dll

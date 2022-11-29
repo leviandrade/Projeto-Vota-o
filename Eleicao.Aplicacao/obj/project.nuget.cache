@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aWnwSXuF/eIPtM5Dn8xjBA9xM3tjQaRN2IHrfvUJ3bunjVHJsi+0PIy5HduDe4TJ5ai++dVNI8nbTAAoD1fdQw==",
+  "dgSpecHash": "bv81Kf8xDJ/wOIDPHTRMzOF0Dz5dfjONUSmChyv7+3ASSwcHxM0JqvjtbQmalJMus2UQGZesaH8BtV0kHxZRxg==",
   "success": true,
   "projectFilePath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\015110011\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\015110011\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

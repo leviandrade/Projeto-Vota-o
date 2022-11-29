@@ -1,3 +1,5 @@
+using AutoMapper;
+using Eleicao.Aplicacao.Mappers;
 using Eleicao.Data.Contexts;
 using Eleicao.IoC.App_Start;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +16,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<EleicaoContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Eleicao")), ServiceLifetime.Scoped);
 
 InjectionDependencyCore.ConfigureServices(builder.Services);
+
+IMapper mapperConfig = MapperConfig.RegisterMappers();
+builder.Services.AddSingleton(mapperConfig);
 
 var app = builder.Build();
 

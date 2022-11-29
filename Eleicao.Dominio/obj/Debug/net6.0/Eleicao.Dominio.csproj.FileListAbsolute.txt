@@ -10,3 +10,15 @@ C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\refint\Eleicao.Dominio.dll
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.pdb
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.Dominio\obj\Debug\net6.0\ref\Eleicao.Dominio.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.deps.json
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\bin\Debug\net6.0\Eleicao.Dominio.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.csproj.AssemblyReference.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.AssemblyInfoInputs.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.AssemblyInfo.cs
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\refint\Eleicao.Dominio.dll
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\Eleicao.Dominio.pdb
+D:\Pessoal\Projeto-Vota-o\Eleicao.Dominio\obj\Debug\net6.0\ref\Eleicao.Dominio.dll

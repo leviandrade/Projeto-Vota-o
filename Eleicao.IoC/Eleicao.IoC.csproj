@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Eleicao.Aplicacao\Eleicao.Aplicacao.csproj" />
     <ProjectReference Include="..\Eleicao.Data\Eleicao.Data.csproj" />
     <ProjectReference Include="..\Eleicao.Dominio\Eleicao.Dominio.csproj" />
   </ItemGroup>

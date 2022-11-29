@@ -2,11 +2,9 @@
 
 namespace Eleicao.API.Controllers.Eleicao
 {
+    [ApiController]
+    [Route("Acesso/[controller]")]
     public class VotoController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
     }
 }

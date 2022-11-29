@@ -4,7 +4,7 @@ namespace Eleicao.Dominio.Eleicao.Entidades
 {
     public class EleicaoCandidatoEntity : Entidade
     {
-        public int IdEleicao { get; set; }
-        public int IdCandidato { get; set; }
+        public Guid IdEleicao { get; set; }
+        public Guid IdCandidato { get; set; }
     }
 }

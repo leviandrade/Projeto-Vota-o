@@ -1,12 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Eleicao.Aplicacao.Acesso.Interfaces;
+using Eleicao.DTL.Acesso;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Eleicao.API.Controllers.Acesso
 {
-    public class UsuarioController : Controller
+    [ApiController]
+    [Route("Acesso/[controller]")]
+    public class UsuarioController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly IUsuarioApp _usuarioApp;
+
+        public UsuarioController(IUsuarioApp usuarioApp)
         {
-            return View();
+            _usuarioApp = usuarioApp;
+        }
+        [HttpGet]
+        public async Task<IEnumerable<UsuarioDTO>> Get()
+        {
+            return await _usuarioApp.Listar();
         }
     }
 }
