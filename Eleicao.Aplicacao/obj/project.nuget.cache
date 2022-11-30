@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bv81Kf8xDJ/wOIDPHTRMzOF0Dz5dfjONUSmChyv7+3ASSwcHxM0JqvjtbQmalJMus2UQGZesaH8BtV0kHxZRxg==",
+  "dgSpecHash": "zJNnUQSANh4UorLZoC4rsOl+zkDle67IHEaL3MeMgvvcuvmuLZeeyayPOsbKbCrsgdQiA9AdlsW5oAw0TEqPxw==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
+  "projectFilePath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\015110011\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
-    "C:\\Users\\015110011\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Levi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -36,3 +36,7 @@ D:\Pessoal\Projeto-Vota-o\Eleicao.IoC\bin\Debug\net6.0\Eleicao.Dominio.pdb
 D:\Pessoal\Projeto-Vota-o\Eleicao.IoC\bin\Debug\net6.0\Eleicao.DTL.pdb
 D:\Pessoal\Projeto-Vota-o\Eleicao.IoC\obj\Debug\net6.0\Eleicao.IoC.csproj.CopyComplete
 D:\Pessoal\Projeto-Vota-o\Eleicao.IoC\obj\Debug\net6.0\ref\Eleicao.IoC.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.IoC\bin\Debug\net6.0\Eleicao.Aplicacao.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.IoC\bin\Debug\net6.0\Eleicao.DTL.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.IoC\bin\Debug\net6.0\Eleicao.Aplicacao.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.IoC\bin\Debug\net6.0\Eleicao.DTL.pdb

@@ -137,8 +137,8 @@
     },
     "Eleicao.DTL/1.0.0": {
       "type": "project",
-      "path": "../Eleicao.ViewModels/Eleicao.DTL.csproj",
-      "msbuildProject": "../Eleicao.ViewModels/Eleicao.DTL.csproj"
+      "path": "../Eleicao.DTL/Eleicao.DTL.csproj",
+      "msbuildProject": "../Eleicao.DTL/Eleicao.DTL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -149,23 +149,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\015110011\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Levi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
+      "projectUniqueName": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
       "projectName": "Eleicao.Aplicacao",
-      "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
-      "packagesPath": "C:\\Users\\015110011\\.nuget\\packages\\",
-      "outputPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Aplicacao\\obj\\",
+      "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Aplicacao\\Eleicao.Aplicacao.csproj",
+      "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\015110011\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -181,11 +183,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
-              "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
+            "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj"
             },
-            "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.ViewModels\\Eleicao.DTL.csproj": {
-              "projectPath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.ViewModels\\Eleicao.DTL.csproj"
+            "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.DTL\\Eleicao.DTL.csproj": {
+              "projectPath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.DTL\\Eleicao.DTL.csproj"
             }
           }
         }

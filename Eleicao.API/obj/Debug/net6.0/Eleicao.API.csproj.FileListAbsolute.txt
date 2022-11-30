@@ -139,3 +139,10 @@ D:\Pessoal\Projeto-Vota-o\Eleicao.API\obj\Debug\net6.0\ref\Eleicao.API.dll
 D:\Pessoal\Projeto-Vota-o\Eleicao.API\bin\Debug\net6.0\Eleicao.API.xml
 D:\Pessoal\Projeto-Vota-o\Eleicao.API\obj\Debug\net6.0\Eleicao.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Pessoal\Projeto-Vota-o\Eleicao.API\obj\Debug\net6.0\Eleicao.API.xml
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\obj\Debug\net6.0\Eleicao.API.xml
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.API.xml
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.Aplicacao.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.DTL.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.Aplicacao.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.DTL.pdb

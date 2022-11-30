@@ -17,6 +17,9 @@ namespace Eleicao.Data.Contexts
         #region Acesso
         public DbSet<TipoUsuarioEntity> TipoUsuario { get; set; }
         public DbSet<UsuarioEntity> Usuario { get; set; }
+        public DbSet<PermissaoEntity> Permissao { get; set; }
+        public DbSet<TipoUsuarioPermissaoEntity> TipoUsuarioPermissao { get; set; }
+
 
         #endregion
 
@@ -29,6 +32,8 @@ namespace Eleicao.Data.Contexts
         {
             modelBuilder.ApplyConfiguration(new TipoUsuarioMapping());
             modelBuilder.ApplyConfiguration(new UsuarioMapping());
+            modelBuilder.ApplyConfiguration(new PermissaoMapping());
+            modelBuilder.ApplyConfiguration(new TipoUsuarioPermissaoMapping());
 
             modelBuilder.ApplyConfiguration(new EleicaoMapping());
             modelBuilder.ApplyConfiguration(new EleicaoCandidatoMapping());

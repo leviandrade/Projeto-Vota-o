@@ -12,6 +12,6 @@ namespace Eleicao.Dominio.Acesso.Entidades
 
         protected TipoUsuarioEntity() { }
         public string NmTipoUsuario { get; private set; }
-
+        public ICollection<TipoUsuarioPermissaoEntity> TipoUsuarioPermissao { get; set; }
     }
 }

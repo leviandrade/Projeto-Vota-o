@@ -22,6 +22,8 @@ namespace Eleicao.Aplicacao.Mappers
         {
             cfg.CreateMap<TipoUsuarioEntity, TipoUsuarioDTO>().ReverseMap();
             cfg.CreateMap<UsuarioEntity, UsuarioDTO>().ReverseMap();
+            cfg.CreateMap<TipoUsuarioPermissaoEntity, TipoUsuarioPermissaoDTO>().ReverseMap();
+            cfg.CreateMap<PermissaoEntity, PermissaoDTO>().ReverseMap();
         }
         private static void ModuloEleicao(IMapperConfigurationExpression cfg)
         {

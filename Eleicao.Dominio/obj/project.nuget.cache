@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bVh43fBi7Z3X4fhLz3mJVG5GS+0FHQ3/9FikcH3MhzgEB43tfVgOVo6mpEJiStVt58hczTcfhCP5NzMwX//BRA==",
+  "dgSpecHash": "AEnaEJOsQM0KDOxC8qvLAF0+R3I2fMh8Puu1H6+ZrgNax0fWMalABAYYZmqkN4dEF7MTeizRbgjbF+PuHhQI2A==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.Dominio\\Eleicao.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

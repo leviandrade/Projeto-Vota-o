@@ -13,6 +13,10 @@ namespace Eleicao.Data.Mappings.Acesso
 
             builder.Property(p => p.Id).HasColumnName("ID_TIPO_USUARIO");
             builder.Property(p => p.NmTipoUsuario).HasColumnName("NM_TIPO_USUARIO");
+
+            builder.HasMany(p => p.TipoUsuarioPermissao)
+                   .WithOne()
+                   .HasForeignKey(p => p.IdTipoUsuario);
         }
     }
 }

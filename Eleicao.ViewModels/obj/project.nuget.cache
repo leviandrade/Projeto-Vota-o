@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w3yVPMofnLWKR+gpf6sfxVTS7AMEoFAu9CXd0yTo7IDpDIzW2Zr+aiu0DJSRH4dpPCnxmq/Rl+TAQxl4bDrp8w==",
+  "dgSpecHash": "vWuDdf2d3pX1QYTis4+1WH5ECeFit5fYVAKXHiOr8PF5RXyX8m7ap6NL3L/yO7whWLpEKD7HhcWL7jHgiM3FPg==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\Projeto-Vota-o\\Eleicao.ViewModels\\Eleicao.DTL.csproj",
+  "projectFilePath": "C:\\Users\\Levi\\source\\repos\\Eleicao.API\\Eleicao.ViewModels\\Eleicao.DTL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
