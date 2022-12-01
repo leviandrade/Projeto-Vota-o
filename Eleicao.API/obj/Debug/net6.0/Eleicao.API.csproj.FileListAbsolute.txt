@@ -146,3 +146,7 @@ C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.Apli
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.DTL.dll
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.Aplicacao.pdb
 C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Eleicao.DTL.pdb
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Levi\source\repos\Eleicao.API\Eleicao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

@@ -1,9 +1,12 @@
-﻿using Eleicao.Aplicacao.Acesso.Interfaces;
+﻿using Eleicao.API.Extensions;
+using Eleicao.Aplicacao.Acesso.Interfaces;
 using Eleicao.DTL.Acesso;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eleicao.API.Controllers.Acesso
 {
+    [Authorize]
     [ApiController]
     [Route("Acesso/[controller]")]
     public class UsuarioController : ControllerBase
@@ -14,6 +17,8 @@ namespace Eleicao.API.Controllers.Acesso
         {
             _usuarioApp = usuarioApp;
         }
+
+        [ClaimsAuthorize("Usuario", "Listar")]
         [HttpGet]
         public async Task<IEnumerable<UsuarioDTO>> Get()
         {

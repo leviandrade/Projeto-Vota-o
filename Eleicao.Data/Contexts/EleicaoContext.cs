@@ -19,7 +19,7 @@ namespace Eleicao.Data.Contexts
         public DbSet<UsuarioEntity> Usuario { get; set; }
         public DbSet<PermissaoEntity> Permissao { get; set; }
         public DbSet<TipoUsuarioPermissaoEntity> TipoUsuarioPermissao { get; set; }
-
+        public DbSet<UsuarioPermissaoEntity> UsuarioPermissao { get; set; }
 
         #endregion
 
@@ -34,6 +34,7 @@ namespace Eleicao.Data.Contexts
             modelBuilder.ApplyConfiguration(new UsuarioMapping());
             modelBuilder.ApplyConfiguration(new PermissaoMapping());
             modelBuilder.ApplyConfiguration(new TipoUsuarioPermissaoMapping());
+            modelBuilder.ApplyConfiguration(new UsuarioPermissaoMapping());
 
             modelBuilder.ApplyConfiguration(new EleicaoMapping());
             modelBuilder.ApplyConfiguration(new EleicaoCandidatoMapping());
