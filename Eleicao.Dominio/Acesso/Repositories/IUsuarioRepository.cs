@@ -5,5 +5,6 @@ namespace Eleicao.Dominio.Acesso.Repositories
 {
     public interface IUsuarioRepository : IRepository<UsuarioEntity>
     {
+        Task<UsuarioEntity> ObterUsuario(string cpf, string senha);
     }
 }
