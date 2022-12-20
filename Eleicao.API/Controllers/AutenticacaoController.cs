@@ -11,9 +11,9 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eleicao.API.Controllers.Acesso
+namespace Eleicao.API.Controllers
 {
-    [Route("Acesso/[controller]")]
+    [Route("api/[controller]")]
     public class AutenticacaoController : ControllerBase
     {
         private readonly AppSettings _appSettings;

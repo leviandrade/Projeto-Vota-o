@@ -4,16 +4,16 @@ using Eleicao.DTL.Acesso;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Eleicao.API.Controllers.Acesso
+namespace Eleicao.API.Controllers
 {
     [Authorize]
     [ApiController]
-    [Route("Acesso/[controller]")]
-    public class UsuarioController : ControllerBase
+    [Route("api/[controller]")]
+    public class UsuariosController : ControllerBase
     {
         private readonly IUsuarioApp _usuarioApp;
 
-        public UsuarioController(IUsuarioApp usuarioApp)
+        public UsuariosController(IUsuarioApp usuarioApp)
         {
             _usuarioApp = usuarioApp;
         }
